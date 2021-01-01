@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-31T23:28:15.149Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ZqCclAB8kd8mqgdiJGUu" version="14.1.6" type="github">
+<mxfile modified="2021-01-01T03:13:27.176Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="4iwdwC8VkH63-6Z2OM4L" version="14.1.6" type="github">
   <diagram id="3408c639-47e7-a2fe-a6f9-c808d1411101" name="Page-1">
     <mxGraphModel dx="3324" dy="2495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="30" value="Sirius A&lt;br&gt;A1 - 3 stations&lt;br&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="991.39990234375" y="-211.50006103515625" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="31" value="Sagan Passageway&lt;br&gt;8.6 ly- D/6.735 - xxxx c" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="31" value="Sagan Passageway&lt;br&gt;8.6 ly- D/13.470- 99 bonds" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="643.9" y="-97" width="200" height="77" as="geometry" />
         </mxCell>
         <mxCell id="32" value="" style="shape=link;html=1;jettySize=auto;orthogonalLoop=1;exitX=0;exitY=1;entryX=1;entryY=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="31" target="2" edge="1">
