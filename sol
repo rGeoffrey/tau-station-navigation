@@ -1,6 +1,6 @@
-<mxfile modified="2021-01-01T04:07:33.756Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Dfj5aFeonpS8ieawe7rd" version="14.1.6" type="github">
+<mxfile modified="2021-02-28T16:35:38.605Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="QkTPaRFbbKuNwjkK7LGf" version="14.2.6" type="github">
   <diagram id="3408c639-47e7-a2fe-a6f9-c808d1411101" name="Page-1">
-    <mxGraphModel dx="3324" dy="2495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2685" dy="2495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="3" value="Alpha Centauri A&lt;br&gt;G2 - 8 stations&lt;br&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="275" y="840" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-6 Sol Jump Gate&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-------&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-1 Tau Station (UE)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-3&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;København&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;C-4 Daedalus&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;C-5 Taungoo Station&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;g-6 Nouveau Limoges(UE)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="4" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-6 Sol Jump Gate&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-------&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-1 Tau Station (UE)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-3&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;København (PW)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;C-4 Daedalus (P)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;C-5 Taungoo Station (W)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;g-6 Nouveau Limoges(UE)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="187" y="355" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5" value="" style="endArrow=none;html=1;exitX=1.003;exitY=0.018;exitPerimeter=0;entryX=0.375;entryY=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="4" target="2" edge="1">
@@ -19,7 +19,7 @@
             <mxPoint x="330" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-7 Alpha Centauri J G (E)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-------&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;g-7 Moissan Station (U)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-8 Ghost of Mali&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;g-8 Paris Spatiale&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-9 Spirit of Botswana (UE)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;g-9 Cirgue Centauri&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-10 Yards of Gadani&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;g-10 Bordeaux Station&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="7" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-6 Alpha Centauri J G (E)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-------&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;g-7 Moissan Station (UW)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-8 Ghost of Mali&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;g-8 Paris Spatiale (E)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-9 Spirit of Botswana (U)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;g-9 Cirgue Centauri (W)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-10 Yards of Gadani (PW)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;g-10 Bordeaux Station&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="435" y="628.5" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8" value="" style="endArrow=none;html=1;entryX=0.003;entryY=1.009;entryPerimeter=0;exitX=0.625;exitY=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="3" target="7" edge="1">
@@ -100,7 +100,7 @@
         <mxCell id="30" value="Sirius A&lt;br&gt;A1 - 3 stations&lt;br&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="991.39990234375" y="-211.50006103515625" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="31" value="Sagan Passageway&lt;br&gt;8.6 ly- D/13.470- 99 bonds" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="31" value="Sagan Passageway&lt;br&gt;8.6 ly- D/13.470- 99 bonds&lt;br&gt;1,238,400 km" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="643.9" y="-97" width="200" height="77" as="geometry" />
         </mxCell>
         <mxCell id="32" value="" style="shape=link;html=1;jettySize=auto;orthogonalLoop=1;exitX=0;exitY=1;entryX=1;entryY=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="31" target="2" edge="1">
@@ -133,19 +133,19 @@
             <mxPoint x="2297.39990234375" y="613.4999389648438" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="38" value="Ross 154&lt;br&gt;M4.5 - 4 stations&lt;br&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="38" value="Ross 154&lt;br&gt;M4.5 - 4 stations&lt;br&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-469.9996744791665" y="495.5" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="39" value="Gate 807.XX&lt;br&gt;9.69 ly- D/x.xxx - xxxx c&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-79.99967447916652" y="340" width="200" height="60" as="geometry" />
+        <mxCell id="39" value="Gate 807.XX&lt;br&gt;9.69 ly- D/x.xxx - xxxx c&lt;br&gt;1,295,360 km" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="340" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="40" value="" style="shape=link;html=1;jettySize=auto;orthogonalLoop=1;entryX=1;entryY=0.25;exitX=0;exitY=0.5;" parent="1" source="39" target="38" edge="1">
+        <mxCell id="40" value="" style="shape=link;html=1;jettySize=auto;orthogonalLoop=1;entryX=1;entryY=0.25;exitX=0;exitY=0.5;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="39" target="38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1236.9996744791665" y="638" as="sourcePoint" />
             <mxPoint x="-921.9996744791665" y="168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41" value="" style="shape=link;html=1;jettySize=auto;orthogonalLoop=1;entryX=1;entryY=0.5;exitX=0;exitY=0.75;" parent="1" source="2" target="39" edge="1">
+        <mxCell id="41" value="" style="shape=link;html=1;jettySize=auto;orthogonalLoop=1;entryX=1;entryY=0.5;exitX=0;exitY=0.75;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="2" target="39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="587.5" as="sourcePoint" />
             <mxPoint x="-1186.9996744791665" y="525.5" as="targetPoint" />
@@ -1006,13 +1006,13 @@
             <mxPoint x="284.5" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="356" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;strokeWidth=1;exitX=0;exitY=0.35;exitPerimeter=0;entryX=1;entryY=0.75;" parent="1" source="373" target="38" edge="1">
+        <mxCell id="356" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffe6cc;strokeWidth=1;exitX=0;exitY=0.35;exitPerimeter=0;entryX=1;entryY=0.75;strokeColor=#d79b00;" parent="1" source="373" target="38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="132" y="678.5" as="sourcePoint" />
             <mxPoint x="182" y="628.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="357" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;strokeWidth=1;exitX=1;exitY=0.65;exitPerimeter=0;entryX=0;entryY=0.25;" parent="1" source="373" target="3" edge="1">
+        <mxCell id="357" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffe6cc;strokeWidth=1;exitX=1;exitY=0.65;exitPerimeter=0;entryX=0;entryY=0.25;strokeColor=#d79b00;" parent="1" source="373" target="3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="702" as="sourcePoint" />
             <mxPoint x="230" y="662" as="targetPoint" />
@@ -1093,8 +1093,8 @@
         <mxCell id="372" value="&lt;span&gt;Unknown Route&lt;/span&gt;&lt;br&gt;&lt;span&gt;x.xx ly- D/x.xxx - xxxx c&lt;/span&gt;" style="shape=tape;whiteSpace=wrap;html=1;size=0.2799986049107156;" parent="1" vertex="1">
           <mxGeometry x="1806.5" y="-329" width="190" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="373" value="&lt;span&gt;Huygens Conduit&lt;/span&gt;&lt;br&gt;&lt;span&gt;x.xx ly- D/x.xxx - xxxx c&lt;/span&gt;" style="shape=tape;whiteSpace=wrap;html=1;size=0.2799986049107156;" parent="1" vertex="1">
-          <mxGeometry x="-74.85686383928578" y="637" width="190" height="78" as="geometry" />
+        <mxCell id="373" value="&lt;span&gt;Huygens Conduit&lt;/span&gt;&lt;br&gt;&lt;span&gt;8.10 ly- D/x.xxx - xxxx c&lt;br&gt;1,166,400 km&lt;br&gt;&lt;/span&gt;" style="shape=tape;whiteSpace=wrap;html=1;size=0.2799986049107156;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-74.86" y="630" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="374" value="&lt;span&gt;Unknown Route (to top of page)&lt;/span&gt;&lt;br&gt;&lt;span&gt;x.xx ly- D/x.xxx - xxxx c&lt;/span&gt;" style="shape=tape;whiteSpace=wrap;html=1;size=0.2799986049107156;" parent="1" vertex="1">
           <mxGeometry x="236.64313616071422" y="1181.5" width="190" height="78" as="geometry" />
@@ -1255,7 +1255,7 @@
             <mxPoint x="-101" y="-494.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="407" value="&lt;h1&gt;Stars (hexagon)&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 18px&quot;&gt;&lt;li&gt;Star name&lt;br&gt;&lt;/li&gt;&lt;li&gt;Spectral type&lt;br&gt;&lt;/li&gt;&lt;li&gt;Number of stations&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;h1&gt;Stations (rectangle)&lt;/h1&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;List of stations.&amp;nbsp; The jump gate is listed first.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span&gt;Stations include affiliation.&amp;nbsp; Casing chosen for clarity, G and C look too much alike.&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 18px&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;C = Consortium&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;g = Gaule&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;F = Freebooter&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;i = Independent&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Also includes level and if the station has a Univeristy (U) or an Embassy (E).&lt;/font&gt;&lt;/p&gt;&lt;h1&gt;Normal Conduit (oval)&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 18px&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Conduit name (if known)&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Distance in light years&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Travel duration&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Cost in credits&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Distance in kilometers (for private ships)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;The 46 main line links&amp;nbsp;form a tree where all links lead to Sol.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;kilometers = light years * 144000&lt;/font&gt;&lt;/p&gt;&lt;h1&gt;Shortcut Conduit (tape)&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Short cut conduits connect 6 pairs of stars, but are not part of the shortest path to Sol.&amp;nbsp; Note that one link connects top of map to bottom.&lt;/font&gt;&lt;/p&gt;&lt;h1&gt;Disconnected Conduit (blue link)&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;There are 18 links between 26 stars that are in small clusters and don&#39;t connect to Sol, or other clusters.&amp;nbsp; Until there is even a chance of using them they are shown as just a simple link.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="407" value="&lt;h1&gt;Stars (hexagon)&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 18px&quot;&gt;&lt;li&gt;Star name&lt;br&gt;&lt;/li&gt;&lt;li&gt;Spectral type&lt;br&gt;&lt;/li&gt;&lt;li&gt;Number of stations&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;h1&gt;Stations (rectangle)&lt;/h1&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;List of stations.&amp;nbsp; The jump gate is listed first.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span&gt;Stations include affiliation.&amp;nbsp; Casing chosen for clarity, G and C look too much alike.&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 18px&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;C = Consortium&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;g = Gaule&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;F = Freebooter&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;i = Independent&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Also includes level and if the station has a Univeristy (U), Embassy (E), shiPyard (P), or seWer (W).&lt;/font&gt;&lt;/p&gt;&lt;h1&gt;Normal Conduit (oval)&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 18px&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Conduit name (if known)&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Distance in light years&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Travel duration&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Cost in credits&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Distance in kilometers (for private ships)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;The 46 main line links&amp;nbsp;form a tree where all links lead to Sol.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;kilometers = light years * 144000&lt;/font&gt;&lt;/p&gt;&lt;h1&gt;Shortcut Conduit (tape)&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Short cut conduits connect 6 pairs of stars, but are not part of the shortest path to Sol.&amp;nbsp; Note that one link connects top of map to bottom.&lt;/font&gt;&lt;/p&gt;&lt;h1&gt;Disconnected Conduit (blue link)&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;There are 18 links between 26 stars that are in small clusters and don&#39;t connect to Sol, or other clusters.&amp;nbsp; Until there is even a chance of using them they are shown as just a simple link.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-770" y="-1060" width="390" height="1038" as="geometry" />
         </mxCell>
         <mxCell id="408" value="" style="shape=link;html=1;jettySize=auto;orthogonalLoop=1;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.5;exitY=0;entryX=0.5;entryY=1;" parent="1" edge="1">
@@ -1270,7 +1270,7 @@
         <mxCell id="410" value="&lt;span&gt;&lt;a href=&quot;https://github.com/rGeoffrey/tau-station-navigation&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;https://github.com/rGeoffrey/tau-station-navigation&lt;/font&gt;&lt;/a&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1150.5" y="-887" width="781" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="411" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;C-10 Barnard&#39;s Star Jump Gate (E)&lt;/div&gt;&lt;div&gt;-------&lt;/div&gt;&lt;div&gt;F-11 Caen Stronghold&lt;/div&gt;&lt;div&gt;i-11 Hopkins&#39; Legacy&lt;/div&gt;&lt;div&gt;g-12 Estación de Amazon&lt;/div&gt;&lt;div&gt;g-12 The Maid of Orléans&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="411" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;C-10 Barnard&#39;s Star Jump Gate (E)&lt;/div&gt;&lt;div&gt;-------&lt;/div&gt;&lt;div&gt;F-11 Caen Stronghold&lt;/div&gt;&lt;div&gt;i-11 Hopkins&#39; Legacy&lt;/div&gt;&lt;div&gt;g-12 Estación de Amazon (E)&lt;/div&gt;&lt;div&gt;g-12 The Maid of Orléans (PW)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="100" y="-254" width="221" height="94" as="geometry" />
         </mxCell>
         <mxCell id="412" value="" style="endArrow=none;html=1;exitX=1.003;exitY=0.018;exitPerimeter=0;entryX=0.375;entryY=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="411" target="22" edge="1">
@@ -1279,7 +1279,7 @@
             <mxPoint x="269" y="-279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Phq2yOkur1z9LSukCzK_-412" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-13 L726-8 J G (E)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-------&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;i-13 Orwell Stronghold&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;i-14 Spirit of Tianjin&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="Phq2yOkur1z9LSukCzK_-412" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-14 L726-8 J G (E)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-------&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;i-15 Orwell Stronghold (P)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;i-15 Spirit of Tianjin (W)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="870" y="680" width="155" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Phq2yOkur1z9LSukCzK_-413" value="" style="endArrow=none;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=0.981;entryY=1.016;entryPerimeter=0;exitX=0;exitY=0.75;" parent="1" source="14" target="Phq2yOkur1z9LSukCzK_-412" edge="1">
@@ -1288,7 +1288,7 @@
             <mxPoint x="750" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7qL5gkFyawEqFtR7pBn3-412" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-19 YZ Ceti J G (E)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-------&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;C-19 Asimov Freehold&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;C-19 Cap Verde Stronghold (U)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;C-20 Spirit of New York City&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="7qL5gkFyawEqFtR7pBn3-412" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;C-25 YZ Ceti J G (E)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-------&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;C-25 Asimov Freehold&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;C-25 Cap Verde Stronghold (U)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;C-25 Spirit of New York City (W)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="904.5" y="417.5" width="184" height="84" as="geometry" />
         </mxCell>
         <mxCell id="7qL5gkFyawEqFtR7pBn3-413" value="" style="endArrow=none;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=0.981;entryY=1.016;entryPerimeter=0;exitX=0.375;exitY=1;exitDx=0;exitDy=0;" parent="1" source="91" target="7qL5gkFyawEqFtR7pBn3-412" edge="1">
@@ -1297,13 +1297,22 @@
             <mxPoint x="790" y="630.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S5fP1M66p72hg-9wkOKh-412" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;F-13 Sirius J G (E)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-------&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;F-13 Heinlein Stronghold (U)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;F-14 House of Congo&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="S5fP1M66p72hg-9wkOKh-412" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;F-13 Sirius J G (E)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-------&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;F-13 Heinlein Stronghold (UW)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;F-14 House of Congo (P)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="730" y="-267.12" width="175" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="S5fP1M66p72hg-9wkOKh-413" value="" style="endArrow=none;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=0.981;entryY=1.016;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="S5fP1M66p72hg-9wkOKh-412" source="30">
+        <mxCell id="S5fP1M66p72hg-9wkOKh-413" value="" style="endArrow=none;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=0.981;entryY=1.016;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="30" target="S5fP1M66p72hg-9wkOKh-412" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1014" y="-222.12" as="sourcePoint" />
             <mxPoint x="630" y="-107.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqD5yTVz0UwCylPEn00X-412" value="&lt;div&gt;&lt;span&gt;C-16 Ross 154 Jump Gate (EW)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;-------&lt;/span&gt;&lt;/div&gt;&lt;div&gt;i-16 Leguin Stronghold&lt;/div&gt;&lt;div&gt;g-17 Madame De Pompadour (E)&lt;/div&gt;&lt;div&gt;C-17 House of Syria (U)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="474" width="190" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="CqD5yTVz0UwCylPEn00X-413" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;entryX=0.962;entryY=0.402;fillColor=#ffe6cc;strokeColor=#d79b00;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CqD5yTVz0UwCylPEn00X-412" target="38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-197" y="659" as="sourcePoint" />
+            <mxPoint x="29.25" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
